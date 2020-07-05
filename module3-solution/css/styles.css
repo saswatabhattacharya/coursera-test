@@ -1,0 +1,24 @@
+div p
+{
+	box-sizing: border-box;
+	text-align: justify;
+	background-color: #D7BDE2  ;
+	font-weight: bold;
+	line-height: 2em;
+	padding: 20px;
+}
+#nav-list a
+{
+	text-align: center;
+	font-weight: bold;
+}
+#nav-list a:hover
+{
+	background-color: teal;
+	color: white;
+}
+body
+{
+	background-color: #D98880  ;
+	font-family: Comic Sans MS;
+}
